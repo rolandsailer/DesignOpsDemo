@@ -21,11 +21,11 @@ Primary.args = {
   label: 'Button'
 };
 Primary.story = {
-  name: 'Button story',
+  name: 'Primary Button Story',
   parameters: {
     design: {
       type: 'figma',
-      url: 'https://www.figma.com/file/9nHBh2ti9b1XJ5vCfUeRHZ/DesignOpsDemo?node-id=0%3A1',
+      url: 'https://www.figma.com/file/9nHBh2ti9b1XJ5vCfUeRHZ/DesignOpsDemo?node-id=73%3A2',
     },
   },
 }
